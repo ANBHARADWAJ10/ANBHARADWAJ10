@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANBHARADWAJ10
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Dev
+- 👀 I’m interested in Almost Everything.
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
