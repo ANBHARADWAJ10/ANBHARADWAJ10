@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANBHARADWAJ10
 - 👀 I’m interested in Almost Everything.
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently Platform Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
